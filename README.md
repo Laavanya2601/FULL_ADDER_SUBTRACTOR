@@ -64,36 +64,20 @@ ii)FULL SUBTRACTOR
 
 **Program:**
 
-FULL ADDER
+![image](https://github.com/user-attachments/assets/24cb2b1a-3e76-4bed-8786-b0661834c043)
 
-![Screenshot 2024-12-19 113826](https://github.com/user-attachments/assets/dfc4cecb-393d-449a-9060-4fc3bebdb4f0)
-
-FULL SUBTRACTOR
-
-![Screenshot 2024-12-19 114132](https://github.com/user-attachments/assets/61261ce5-4fa9-41d1-94b2-cdedb5a7c659)
 
 /* Program to design a half subtractor and full subtractor circuit and verify its truth table in quartus using Verilog programming. 
 */
 
 **RTL Schematic**
 
-FULL ADDER
-
-![Screenshot 2024-12-14 203658](https://github.com/user-attachments/assets/7184b80a-81a1-43b0-a932-293c342929bb)
-
-FULL SUBTRACTOR
-
-![Screenshot 2024-12-14 203900](https://github.com/user-attachments/assets/45f81f98-9863-45aa-9a97-52b7b3db89cb)
+![image](https://github.com/user-attachments/assets/47d32921-a3d2-418c-8bf9-bde9ba688b6d)
 
 **Output Timing Waveform**
 
-FULL ADDER
+![image](https://github.com/user-attachments/assets/b3351160-61a3-480d-83a6-e9ea5e48f0bb)
 
-![Screenshot 2024-12-14 203939](https://github.com/user-attachments/assets/fd9696ae-ff19-46d3-90ee-3c3778c1a43b)
-
-FULL SUBTRACTOR
-
-![Screenshot 2024-12-14 203958](https://github.com/user-attachments/assets/2b1e42d4-4e6e-4e43-a2a4-7ff92adda610)
 
 **Result:**
 
